@@ -1,6 +1,5 @@
 var journalArray = [
 
-
 ];
 
-module.experts = journalArray;
+module.exports = journalArray;
