@@ -6,6 +6,6 @@ Users are able to open the link and use the file to recall stored information fr
 https://taking-notes.herokuapp.com/
 
 # Example
+![Home Page](notetaker.png)
+![To Do List](todolist.png)
 
-![Home Page] (notetaker.png)
-![ToDo List] (todolist.png)
